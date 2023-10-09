@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Text Brush</string>
+
+
+    <string name="activity_home_open_camera_label">Open Camera</string>
+    <string name="activity_home_take_a_photo_label">Take a Picture</string>
+
+
+    <string name="activity_text_edit_done_label">Done</string>
+    <string name="activity_text_edit_hint">Text here!</string>
+
+    <string name="activity_drawing_share_title">Share Image</string>
+    <string name="activity_drawing_share_fail_message">Share Fail!</string>
+</resources>
